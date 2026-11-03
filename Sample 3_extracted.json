@@ -1,0 +1,37 @@
+{
+  "name of work": {
+    "value": "Development and operation of Loyalty Management Platform for Servo",
+    "source_quote": "NAME OF WORK : Development and operation of Loyalty Management Platform for Servo",
+    "source_chunk_ref": "Chunk 2"
+  },
+  "tender no": {
+    "value": "Tender Ref.: MnC/LUB-13/PT-33/26-27, GeM Bid ID: GEM/2026/B/7713160",
+    "source_quote": "TENDER NUMBER : Tender Ref.: MnC/LUB-13/PT-33/26-27 GeM Bid ID: GEM/2026/B/7713160",
+    "source_chunk_ref": "Chunk 2"
+  },
+  "ato_criteria": {
+    "value": "Annual turnover of at least Rs. 54,71,000/- during any of the preceding three financial years",
+    "source_quote": "The Annual turnover of the bidder (based on standalone financials of bidding entity) shall be at least following values during any of the preceding three financial years. Rs. 54,71,000/-",
+    "source_chunk_ref": "Chunk 5"
+  },
+  "similar_work_definition": {
+    "value": "Similar works completed during last seven years ending last day of month previous to the original date of bid submission, wherein the annual value of amount or incentive disbursed through the platform was Rs. Y or above for each assignment.",
+    "source_quote": "Number of similar works completed during last seven years ending last day of month previous to the original date of bid submission, wherein the annual value of amount or incentive disbursed through the platform was Rs. Y or above for each assignment.",
+    "source_chunk_ref": "Chunk 22"
+  },
+  "documents_to_be_submitted": [
+    "Declaration Form for availing Purchase Preference – Bid Stage (Annexure–J(Part: I)-Part B)",
+    "Undertaking for Local Content– Bid Stage (Annexure–J(Part: II)-Part B)",
+    "Statements of credentials (Annexure -1) (Part A)",
+    "Client certificate mentioning the reimbursement amount and the corresponding period for similar works (Annexure -2) (Part A)",
+    "Detail of Project for Presentation (Annexure -3) (Part A)",
+    "Certificate for Technical Experts (Annexure -4) (Part A)",
+    "Proforma for Declaration on Proceedings Under insolvency and Bankruptcy Code, 2016 (During Award Stage) -Annexure -B1 (Part B)",
+    "Proforma for Declaration on Proceedings Under insolvency and Bankruptcy Code, 2016 (During Execution Stage) -Annexure -B2 (Part B)",
+    "Non-Disclosure Agreement (Annexure -5) (Part A)",
+    "Copy of PAN & GST Registration Certificate",
+    "Partnership deed in case of partnership firm or certificate of Incorporation with memorandum & articles of association in case of company",
+    "Power of attorney /Board resolution (as applicable) in favor of tender signing authority"
+  ],
+  "tech_evaluation_mode": "QCBS"
+}

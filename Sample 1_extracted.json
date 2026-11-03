@@ -1,0 +1,37 @@
+{
+  "name of work": {
+    "value": "Procurement of 1.0 & 1.25 mm MS Plain & Epi coated Barrels for Chennai & Manali locations for a period of 12 months through GeM portal.",
+    "source_quote": "NAME OF WORK\nProcurement of 1.0 & 1.25 mm MS Plain & Epi coated Barrels for Chennai & Manali locations for a period of 12 months through GeM portal.",
+    "source_chunk_ref": "Chunk 8"
+  },
+  "tender no": {
+    "value": "MnC/LUB-19/PT-50/26-27 / GEM/2026/B/7860587",
+    "source_quote": "Tender No./\ne-Tender ID No.:\nMnC/LUB-19/PT-50/26-27\n\n\nGEM/2026/B/7860587",
+    "source_chunk_ref": "Chunk 8"
+  },
+  "ato_criteria": {
+    "value": "Minimum annual turnover of Rs. 11,79,98,000.00 for any one of the preceding 3 years (2025-2026, 2024-25 & 2023-24) for LBP Chennai/Manali.",
+    "source_quote": "For Annual Turnover PQC qualification, the tenderer should have a minimum annual turnover, as tabulated below, for each of Schedules in any one of the preceding 3 years i.e., 2025-2026, 2024-25 & 2023-24 ... 1 LBP Chennai/Manali Rs. 11,79,98,000.00",
+    "source_chunk_ref": "Chunk 12"
+  },
+  "similar_work_definition": {
+    "value": "Bidder should have supplied 0.9 mm &/or 1.0 mm &/or 1.25 mm or 18G to 22G of MS Plain Barrels/Drums, MS open top Grease Barrel/Drums, MS EPI-coated/Epoxy coated Barrels/Drums, MS Galvanized Barrels / Zinc electroplated barrels/Drums, or MS Composite Barrels/Drums to any industry.",
+    "source_quote": "Bidder should have supplied 0.9 mm &/or 1.0 mm &/or 1.25 mm or 18G to 22G (“G”- Stands for Gauge), of following types of barrels to any industry: MS Plain Barrels/Drums, &/or MS open top Grease Barrel/Drums, &/or MS EPI-coated/Epoxy coated Barrels/Drums, &/or MS Galvanized Barrels / Zinc electroplated barrels/Drums, &/or MS Composite Barrels/Drums.",
+    "source_chunk_ref": "Chunk 14"
+  },
+  "documents_to_be_submitted": [
+    "Bid Security Declaration (BSD) as per Annexure-K",
+    "Audited Balance sheet with Profit & Loss statement / Annual Report with Profit & Loss statement (with UDIN)",
+    "Completion Certificate for similar work experience of supply value by CA (with UDIN)",
+    "Third Format for Machinery Declaration & Document Verification (Annexure -6 (i)) & Supply Value Verification (Annexure -6 (ii))",
+    "BIS License (IS 1783: Part 1: 2014 or IS 1783: Part 2: 2014 or IS: 13997:2014)",
+    "PAN Card of firm",
+    "GST Registration certificate of all Bidder manufacturing Plant/s",
+    "Partnership deed or Certificate of Incorporation with memorandum and articles of Association",
+    "Power of Attorney/ Board Resolution in favour of Tender signing authority",
+    "TPIA certificate/report",
+    "Undertaking for Acceptance of Scope of Work and Specifications (Annexure-3)",
+    "Declaration for Understanding of Benchmark Pricing (Annexure-4)"
+  ],
+  "tech_evaluation_mode": "L1"
+}

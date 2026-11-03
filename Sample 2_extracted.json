@@ -1,0 +1,38 @@
+{
+  "name of work": {
+    "value": "Supply, Fabrication, Erection and Laying of pipelines including HDD and hookup with existing & operational Propane / Butane IPPL pipeline through hot tapping method near under-construction captive jetty of IOCL at Kamarajar Port Limited, Ennore, Chennai",
+    "source_quote": "Supply, Fabrication, Erection and Laying of pipelines including HDD and hookup with existing & operational Propane / Butane IPPL pipeline through hot tapping method near under-construction captive jetty of IOCL at Kamarajar Port Limited, Ennore, Chennai",
+    "source_chunk_ref": "Chunk 4 (Page 3)"
+  },
+  "tender no": {
+    "value": "Tender No-HCC/ENG-29/PT-95-24-25",
+    "source_quote": "TENDER NO: Tender No-HCC/ENG-29/PT-95-24-25",
+    "source_chunk_ref": "Chunk 4 (Page 3)"
+  },
+  "ato_criteria": {
+    "value": "Annual turnover of the Bidder (based on standalone financials of bidding entity) during any of the last three preceding years, ending 31.03.2024 should be at least Rs. 9,36,31,000/- (Rupees Nine Crore Thirty Six Lac Thirty One Thousand only) i.e. during any of the three preceding financial years viz. 2021-22, 2022-23 and 2023-24.",
+    "source_quote": "Annual turnover of the Bidder (based on standalone financials of bidding entity) during any of the last three preceding years, ending 31.03.2024 should be at least Rs. 9,36,31,000/- (Rupees Nine Crore Thirty Six Lac Thirty One Thousand only) i.e. during any of the three preceding financial years viz. 2021-22, 2022-23 and 2023-24.",
+    "source_chunk_ref": "Chunk 16 (Page 7)"
+  },
+  "similar_work_definition": {
+    "value": "Works involving Laying of hydrocarbon carrying steel pipeline including horizontal directional drilling (HDD) for Hydrocarbon (Oil/Gas) industries or Refineries or Petrochemical Plants or Fertilizer Industries or Power plants, for a value meeting the monetary limit for similar works as defined in the tender. OR Works involving Laying of hydrocarbon carrying steel pipeline for Hydrocarbon (Oil/Gas) industries or Refineries or Petrochemical Plants or Fertilizer Industries or Power plants, for a value meeting the monetary limit for similar works as defined in the tender. In addition to above, bidder should have successfully completed at least one work of horizontal directional drilling (HDD) for hydrocarbon carrying steel pipeline for Hydrocarbon",
+    "source_quote": "a) Works involving Laying of hydrocarbon carrying steel pipeline including horizontal directional drilling (HDD) for Hydrocarbon (Oil/Gas) industries or Refineries or Petrochemical Plants or Fertilizer Industries or Power plants, for a value meeting the monetary limit for similar works as defined in the tender. OR b) Works involving Laying of hydrocarbon carrying steel pipeline for Hydrocarbon (Oil/Gas) industries or Refineries or Petrochemical Plants or Fertilizer Industries or Power plants, for a value meeting the monetary limit for similar works as defined in the tender. In addition to above, bidder should have successfully completed at least one work of horizontal directional drilling (HDD) for hydrocarbon carrying steel pipeline for Hydrocarbon",
+    "source_chunk_ref": "Chunk 18 (Page 7)"
+  },
+  "documents_to_be_submitted": [
+    "Purchase/ Work Order copy with Schedule of Rates/ Scope of Works",
+    "Completion certificate by end client with executed value, date of completion of the job and reference work order number",
+    "Copies of Contract Document (Purchase Order/ Work Order with Schedule of Rates) along with completion certificate issued by client (for Government Body/PSU)",
+    "Certificate from CA certifying value of work done with TDS certificates (where applicable) / Bank Statement (for Private Parties)",
+    "Certificate from the end user / owner / consultant of the owner acting as Engineer-In-Charge (EIC) stating that the main contractor has intimated them about the engagement of sub-contracting OR have been allowed/ permitted as a subcontractor (for sub-contracted work)",
+    "Documentary evidence of final executed value (such as executed value mentioned in completion certificate etc.) if claiming on executed value",
+    "Proof of remittance and conversion rate details (for work orders in multiple currency/non-INR)",
+    "Audited financial statements bearing UDIN (for FY 2019-20 onwards)",
+    "Certificate from a Practicing Chartered Accountant towards the turnover of the tenderer along with copy of its Income Tax Return (if not required to get accounts audited under Section 44AB)",
+    "Letter from Company Secretary certifying the annual turnover (for Govt/PSU firms)",
+    "Bank Guarantee (EMD) as per enclosed proforma in a sealed envelope (or online payment proof/exemption certificate)",
+    "GSTIN number and HSN Code / Service Accounting Code (SAC)",
+    "Confirmation of Composition scheme status and issuance of Bill of Supply (if applicable)"
+  ],
+  "tech_evaluation_mode": "L1"
+}

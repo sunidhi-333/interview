@@ -1,0 +1,20 @@
+{
+  "name of work": "Development and operation of Loyalty Management Platform for Servo",
+  "tender no": "Tender Ref.: MnC/LUB-13/PT-33/26-27, GeM Bid ID: GEM/2026/B/7713160",
+  "ato_criteria": "Financial turnover in any of the last three preceding financial years. More than or equal to Rs. 10 Z – 25 marks; More than or equal to Rs. 8 Z and < Rs. 10 Z – 20 marks; More than or equal to Rs. 6 Z and < Rs. 8 Z – 15 marks; More than or equal to Rs. 4 Z and < Rs. 6 Z – 10 marks; Less than Rs. 4 Z – 0 marks.",
+  "similar_work_definition": "Similar work shall mean the implementation or management or operation of a loyalty or reward or incentive or promotional program through an IT/Digital/Online platform with an integrated redemption facility in the form of vouchers or coupons or card or direct cash transfer via NEFT/RTGS/UPI/e-Wallet. Note: Redemption or reward amounts settled by the vendor to beneficiaries or users shall be excluded from the value of similar work orders.",
+  "documents_to_be_submitted": [
+    "Statement of Credentials (Annexure-1)",
+    "Audited Financial Statements (for Indian Companies as per Companies Act 2013) or Audited accounts under Income Tax Act 1961 (for others)",
+    "Certificate from Practicing Chartered Accountant towards turnover with Income Tax Return (if not required to audit under Section 44AB)",
+    "Copies of Contract Document (Purchase Order/Work Order with Schedule of Rates) for Similar Work",
+    "Completion certificates issued by client with executed value, date of completion, and reference work order number",
+    "Certificate from CA certifying value of work done with TDS certificates/bank statement (for Private Parties)",
+    "Client certificate mentioning reimbursement amount and corresponding period",
+    "Proforma for Declaration on Proceedings Under insolvency and Bankruptcy Code, 2016 (During Award Stage) - Annexure -B1",
+    "Proforma for Declaration on Proceedings Under insolvency and Bankruptcy Code, 2016 (During Execution Stage) - Annexure -B2",
+    "Non-Disclosure Agreement (Annexure -5)",
+    "Price Breakup in .pdf format (for Price Bid)"
+  ],
+  "tech_evaluation_mode": "QCBS"
+}
